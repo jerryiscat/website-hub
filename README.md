@@ -1,3 +1,2 @@
-# A6: Website Sharer (Deploy)
-## Deployed website
-https://info441-a6-deploy.jasmineland.me/
+#Website Hub
+A user-centric web platform for sharing and interacting with links.
